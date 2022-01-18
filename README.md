@@ -49,6 +49,7 @@ Shortcut:
 - https://image.thum.io
 - https://statically.io
 - https://img.shields.io
+- https://api.micium.org
 
 # More
 
