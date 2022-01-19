@@ -15,7 +15,7 @@ Shortcut:
 - https://api.soumalyaplayz.repl.co
 - https://api.nom-nom.ga
 - https://dankrpg.xyz/api
-- https://cryptons.ga
+- https://cryptons.ga if not working use https://cryptons-api.herokuapp.com/ this domain
 - https://luminabot.xyz/api
 - https://cool-api.xyz
 - https://api.willz.repl.co
