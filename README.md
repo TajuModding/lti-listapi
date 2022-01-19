@@ -15,7 +15,6 @@ Shortcut:
 - https://api.soumalyaplayz.repl.co
 - https://api.nom-nom.ga
 - https://dankrpg.xyz/api
-- https://cryptons.ga
 - https://luminabot.xyz/api
 - https://cool-api.xyz
 - https://api.willz.repl.co
