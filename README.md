@@ -59,9 +59,7 @@ Shortcut:
 
 ## More
 
-- https:
-
-/github.githubassets.com/assets/gist-embed-5298647f1be6c2c884c0fee83eafb65b
+- https://github.githubassets.com/assets/gist-embed-5298647f1be6c2c884c0fee83eafb65b
 - https://github.com/public-apis/public-apis
 - https://github.com/n0shake/Public-APIs
 - https://github.com/ShiftyTR/Proxy-List
