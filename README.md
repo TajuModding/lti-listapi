@@ -3,7 +3,7 @@
 Shortcut:
 [Without Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#without-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#more)
 
-# Without Key / Auth
+## Without Key* / Auth*
 
 - https://api.itshappy.ga
 - https://api.berk404.ga
@@ -49,10 +49,19 @@ Shortcut:
 - https://statically.io
 - https://img.shields.io
 - https://api.micium.org
+- https://api.somecool.repl.co
+- https://docs.yuiriko.ml
+- https://api.universal-network.xyz/v1/docs (key: 68465765219)
+- http://1.1.1.1/cdn-cgi/trace
+- https://api.shrtco.de/v2/shorten?url=<url>
+- https://bayfiles.com/docs/api
+- https://www.metaweather.com/api/location/search/?query=<city/something>
 
-# More
+## More
 
-- https://github.githubassets.com/assets/gist-embed-5298647f1be6c2c884c0fee83eafb65b
+- https:
+
+/github.githubassets.com/assets/gist-embed-5298647f1be6c2c884c0fee83eafb65b
 - https://github.com/public-apis/public-apis
 - https://github.com/n0shake/Public-APIs
 - https://github.com/ShiftyTR/Proxy-List
