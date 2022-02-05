@@ -56,6 +56,7 @@ Shortcut:
 - https://api.shrtco.de/v2/shorten?url=(url)
 - https://bayfiles.com/docs/api
 - https://www.metaweather.com/api/location/search/?query=<city/something>
+- https://www.api-adi.tk
 
 ## More
 
