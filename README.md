@@ -36,7 +36,6 @@ Shortcut:
 - https://api.miduwu.ml
 - https://apiv1.snoozeds.repl.co
 - https://shot-on-iphone.studio/api/video
-- https://api.miduwu.ml
 - https://api.kazdev.ml
 - https://app.resetxd.repl.co
 - https://cryptons-api.herokuapp.com
@@ -57,6 +56,8 @@ Shortcut:
 - https://bayfiles.com/docs/api
 - https://www.metaweather.com/api/location/search/?query=<city/something>
 - https://www.api-adi.tk
+- https://julien.gq
+- https://nekos.best
 
 ## More
 
