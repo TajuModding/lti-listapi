@@ -8,8 +8,8 @@ Shortcut:
 - https://api.itshappy.ga
 - https://api.berk404.ga
 - https://api.leref.ga
-- https://normal-api.ml
-- https://translate-api.ml
+- https://normal-api.tk
+- https://translate-api.tk
 - https://someapi.xyz
 - https://api.popcat.xyz
 - https://api.soumalyaplayz.repl.co
