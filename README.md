@@ -1,4 +1,4 @@
-[![lti-listapi](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark)](https://github.com/GreenVGJR/lti-listapi/)<br/>
+[![lti-listapi](https://github-readme-stats.vercel./api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark)](https://github.com/GreenVGJR/lti-listapi/)<br/>
 
 Shortcut:
 [Without Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#without-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#more)
@@ -37,7 +37,6 @@ Shortcut:
 - https://apiv1.snoozeds.repl.co
 - https://shot-on-iphone.studio/api/video
 - https://api.kazdev.ml
-- https://app.resetxd.repl.co
 - https://cryptons-api.herokuapp.com
 - https://spapi.ga
 - https://vslapi.cf/endpoints
@@ -50,7 +49,7 @@ Shortcut:
 - https://api.micium.org
 - https://api.somecool.repl.co
 - https://docs.yuiriko.ml
-- https://api.universal-network.xyz/v1/docs (key: 68465765219)
+- https://api.universal-network.xyz (key: 68465765219)
 - http://1.1.1.1/cdn-cgi/trace
 - https://api.shrtco.de/v2/shorten?url=(url)
 - https://bayfiles.com/docs/api
@@ -58,6 +57,15 @@ Shortcut:
 - https://www.api-adi.tk
 - https://julien.gq
 - https://nekos.best
+- https://resapi.up.railway.app
+- https://api.resetxd.xyz
+- https://trivia.fiilipp.repl.co
+- https://coolerapi.hopto.org
+- https://audible-youtube.herokuapp.com/docs
+- https://tools.bananonz.dev
+- https://apiv1.spapi.ga
+- https://apiv2.spapi.ga
+- https://apiv3.spapi.ga
 
 ## More
 
