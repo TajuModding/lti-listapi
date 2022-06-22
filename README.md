@@ -38,7 +38,6 @@ Shortcut:
 - https://shot-on-iphone.studio/api/video
 - https://api.kazdev.ml
 - https://cryptons-api.herokuapp.com
-- https://spapi.ga
 - https://vslapi.cf/endpoints
 - https://aero-network-api.herokuapp.com (key: Aero)
 - https://apigob.girlorboy.repl.co
@@ -66,6 +65,7 @@ Shortcut:
 - https://apiv1.spapi.ga
 - https://apiv2.spapi.ga
 - https://apiv3.spapi.ga
+- http://api.rick-roll.xyz
 
 ## More
 
