@@ -1,16 +1,16 @@
-[![lti-listapi](https://github-readme-stats.vercel.app/api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark)](https://github.com/GreenVGJR/lti-listapi/)<br/>
+[![lti-listapi](https://github-readme-stats.vercel./api/pin/?username=greenvgjr&repo=lti-listapi&theme=dark)](https://github.com/GreenVGJR/lti-listapi/)<br/>
 
 Shortcut:
 [Without Key](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#without-key--auth) | [More](https://github.com/GreenVGJR/lti-listapi/blob/a/README.md#more)
 
-# Without Key / Auth
+## Without Key* / Auth*
 
 - https://api.tejas404.xyz
 - https://api.itshappy.ga
 - https://api.berk404.ga
 - https://api.leref.ga
-- https://normal-api.ml
-- https://translate-api.ml
+- https://normal-api.tk
+- https://translate-api.tk
 - https://someapi.xyz
 - https://api.popcat.xyz
 - https://api.soumalyaplayz.repl.co
@@ -37,11 +37,8 @@ Shortcut:
 - https://api.miduwu.ml
 - https://apiv1.snoozeds.repl.co
 - https://shot-on-iphone.studio/api/video
-- https://api.miduwu.ml
 - https://api.kazdev.ml
-- https://app.resetxd.repl.co
 - https://cryptons-api.herokuapp.com
-- https://spapi.ga
 - https://vslapi.cf/endpoints
 - https://aero-network-api.herokuapp.com (key: Aero)
 - https://apigob.girlorboy.repl.co
@@ -50,10 +47,29 @@ Shortcut:
 - https://statically.io
 - https://img.shields.io
 - https://api.micium.org
+- https://api.somecool.repl.co
+- https://docs.yuiriko.ml
+- https://api.universal-network.xyz (key: 68465765219)
+- http://1.1.1.1/cdn-cgi/trace
+- https://api.shrtco.de/v2/shorten?url=(url)
+- https://bayfiles.com/docs/api
+- https://www.metaweather.com/api/location/search/?query=<city/something>
+- https://www.api-adi.tk
+- https://julien.gq
+- https://nekos.best
+- https://resapi.up.railway.app
+- https://api.resetxd.xyz
+- https://trivia.fiilipp.repl.co
+- https://coolerapi.hopto.org
+- https://audible-youtube.herokuapp.com/docs
+- https://tools.bananonz.dev
+- https://apiv1.spapi.ga
+- https://apiv2.spapi.ga
+- https://apiv3.spapi.ga
+- http://api.rick-roll.xyz
 
-# More
+## More
 
-- https://github.githubassets.com/assets/gist-embed-5298647f1be6c2c884c0fee83eafb65b
 - https://github.com/public-apis/public-apis
 - https://github.com/n0shake/Public-APIs
 - https://github.com/ShiftyTR/Proxy-List
